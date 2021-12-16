@@ -1,7 +1,7 @@
 <h1 align="center">
   嘉应学院
   <br>
-  Author: chiupam
+  Author: charles
 </h1>
 
 # 简介
