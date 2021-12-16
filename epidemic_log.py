@@ -2,7 +2,7 @@
 """
 @Time ： 2021/12/16 00:35
 @Auth ： maomao
-@File ：yiqing.py.py
+@File ：epidemic_log.py.py
 @IDE ：PyCharm
 @Motto：ABC(Always Be Coding)
 
