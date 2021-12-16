@@ -18,8 +18,11 @@
 # 仓库目录说明
 ```
 jyu_scripts/           # jyu_scripts 仓库
-  |-- jyu_dormitory.py       # 主文件
-  `-- README.md         # 仓库说明
+  |-- 头像照片
+  |-- jyu_login.py   #自动登录
+  |-- jyu_dormitory.py  #电费查询
+  |-- epidemic_random.py #随机疫情😷
+  |-- epidemic_log.py   #疫情爬虫
 ```
 # 版权
 - 未经本人同意，仓库内所有资源文件，禁止任何公众号、自媒体、开发者进行任何形式的转载、发布、搬运。
